@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032737540853",
+    "firebase_url": "https://organ-2ed9d-default-rtdb.firebaseio.com",
+    "project_id": "organ-2ed9d",
+    "storage_bucket": "organ-2ed9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032737540853:android:8927adbc74a9dcf9d913bc",
+        "android_client_info": {
+          "package_name": "pranjal.learning.thirumalai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032737540853-d08uj8ah9ar0p2oh4rum10mf2c67k868.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbjkga3zQekvht_y06glbzP1YXbuNfANo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032737540853-d08uj8ah9ar0p2oh4rum10mf2c67k868.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
